@@ -20,6 +20,7 @@
 
 
 points= (((1,2),(9,-5)),((6,19),(-10,-15)))
+
 def euclideanDistance(a, b):
     return ((a[0] - b[0])**2 + (a[1] - b[1])**2)**0.5
 
